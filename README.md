@@ -6,11 +6,14 @@ An experimental, unofficial YouTube TV client for Android TV / Google TV, with a
 
 ## Download
 
-- [Download the APK — v0.1.0](https://github.com/Benjamingitgit/YouTube-Ad-free-Android-TV/releases/download/v0.1.0/youtube-ad-free-android-tv.apk)
-- [Release notes and SHA256 checksum](https://github.com/Benjamingitgit/YouTube-Ad-free-Android-TV/releases/tag/v0.1.0)
+- [Download the APK — v0.1.0](https://github.com/Benjamingitgit/YouTube-Ad-free-Android-TV/releases/download/1.00/youtube-ad-free-android-tv.apk)
+- [Release notes and SHA256 checksum](https://github.com/Benjamingitgit/YouTube-Ad-free-Android-TV/releases/tag/1.00)
+
+## How i made it
+I asked my Hermes to connect to my Xiaomi box through wifi. It did so immediately. Then I asked it to research way to get YouTube ad free. And so it did, and it made this app. Easy peacy
 
 ### Compatibility
-
+- Works on my cheap Smart TV from 2020, and my Xiaomi box. Both have developer mode on.
 - Requires Android 12 / API 31 or newer and support for **32-bit ARM (`armeabi-v7a`)** applications. Not a universal build.
 - The Android 12 compatibility variant was tested on a Philips TPM191E TV, including playback. This release includes the corrected Android TV launcher banner.
 - Other TVs are unverified. ARM64-only devices and x86 devices are not supported by this APK.
